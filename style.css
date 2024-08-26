@@ -1,0 +1,8 @@
+body {
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  background-color: #060202;
+  color: antiquewhite;
+  font-family: 'Courier New', Courier, monospace;
+}
